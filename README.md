@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=HelloWorld!&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=HelloWorld!&fontAlign=70&color=auto)
 <div align=center>
   <a href="s">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miiiingi&layout=compact&theme=tokyonight" />
