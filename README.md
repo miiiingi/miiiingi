@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Hi there 👋&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Hithere👋&fontAlign=70)
 <!--
 **miiiingi/miiiingi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
