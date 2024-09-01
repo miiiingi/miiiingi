@@ -7,5 +7,5 @@
 </a>
 
 TechStack  
-<img src="https://img.shields.io/badge/Python-3776AB?logo=Python"/>
+<img src="https://img.shields.io/badge/Python-1D9FD7?logo=Python"/>
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?logo=Pytorch"/>
