@@ -6,5 +6,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=miiiingi&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 
-TechStack
+TechStack  
 <img src="https://img.shields.io/badge/Python-3776AB?logo=Python"/>
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?logo=Pytorch"/>
