@@ -39,6 +39,7 @@
   <br>
 </div>
 <div align=center>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsrlehd2)](https://solved.ac/alsrlehd2/)
+  [![Solved.ac
+  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsrlehd2)](https://solved.ac/alsrlehd2)
 </div>
 
