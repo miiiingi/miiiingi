@@ -45,7 +45,4 @@
   <br>
 </div>
 <div align=center><h1>✏️  BOJ</h1></div>
-<div align=center>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsrlehd2)](https://solved.ac/alsrlehd2/)
-</div>
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsrlehd2)](https://solved.ac/alsrlehd2/)
