@@ -7,4 +7,4 @@
 </a>
 
 Tech Stack
-<img src="https://img.shields.io/badge/Python-#3776AB?logo=Python">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=Python">
