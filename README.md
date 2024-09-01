@@ -1,11 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&fontAlign=70)
-<a href="s">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miiiingi&layout=compact&theme=tokyonight" />
-</a>
-<a href="s">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=miiiingi&theme=tokyonight&show_icons=true" width="42%" />
-</a>
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=HelloWorld!&fontAlign=70)
+<div align=center>
+  <a href="s">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miiiingi&layout=compact&theme=tokyonight" />
+  </a>
+  <a href="s">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=miiiingi&theme=tokyonight&show_icons=true" width="42%" />
+  </a>  
+</div>
 <div align=center><h1>📚 Tech Stack</h1></div>
 <div align=center>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
@@ -36,4 +37,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
   <br>
+</div>
+<div align=center>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsrlehd2)](https://solved.ac/alsrlehd2/)
 </div>
