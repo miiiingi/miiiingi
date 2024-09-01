@@ -38,6 +38,4 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
   <br>
 </div>
-<div align=center>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsrlehd2)](https://solved.ac/alsrlehd2/)
-</div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsrlehd2)](https://solved.ac/alsrlehd2/)
